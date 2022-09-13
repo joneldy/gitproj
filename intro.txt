@@ -3,3 +3,4 @@ fix intro design
 added header design
 adding logo
 change the width of logo
+update the height of the logo
