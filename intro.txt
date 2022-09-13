@@ -1,3 +1,4 @@
 first commit
 fix intro design
 added header design
+adding logo
