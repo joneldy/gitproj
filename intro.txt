@@ -4,3 +4,4 @@ added header design
 adding logo
 change the width of logo
 update the height of the logo
+updateh the width of the logo
